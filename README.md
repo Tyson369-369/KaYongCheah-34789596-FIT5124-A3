@@ -1,7 +1,7 @@
 This project implements and evaluates model extraction (MEA) and membership inference (MIA) attacks and their corresponding defences on an MNIST digit-classification model.
 
 
-# FIT5124 A3 – Model Extraction & Membership Inference on MNIST
+# Model Extraction & Membership Inference on MNIST
 
 This repository explores security and privacy risks of machine learning APIs by implementing **Model Extraction Attacks (MEA)** and **Membership Inference Attacks (MIA)** against a LeNet-style CNN trained on MNIST, together with practical output-level defences.
 
